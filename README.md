@@ -26,6 +26,8 @@ ___
  <a href="https://jupyter.org/"><img src="/images_as_icons/jupyter.jpeg" alt="Jupyter" style="width:100px;"></a>
 </div>
 
+----
+
 | ⏰ Project Timeline : 📈 |
 | -------- |
 | 1 Literature review and exploring AI ML | 
