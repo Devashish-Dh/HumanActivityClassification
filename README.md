@@ -19,10 +19,10 @@ ___
 - <a href="https://www.python.org/"><img src="/images_as_icons/python.png" alt="Python" style="width:100px;"></a>
 - <a href="https://matplotlib.org/"><img src="/images_as_icons/matplotlib.png" alt="MatplotLib" style="width:100px;"></a>
 - <a href="https://scikit-learn.org/stable/"><img src="/images_as_icons/scikit-learn.png" alt="Scikit-Learn" style="width:100px;"></a>
-- <a href="https://opencv.org/"><img src="/images_as_icons/opencv.png" alt="OpenCV" style="width:100px;"></a>
+- <a href="https://opencv.org/"><img src="/images_as_icons/opencv.png" alt="OpenCV" style="width:20px;"></a>
 - <a href="https://www.tensorflow.org/"><img src="/images_as_icons/tensorflow.png" alt="Python" style="width:100px;"></a>
 - <a href="https://keras.io/"><img src="/images_as_icons/keras.png" alt="Keras" style="width:100px;"></a>
-
+- <a href="https://jupyter.org/"><img src="/images_as_icons/jupyter.png" alt="Jupyter" style="width:100px;"></a>
 
 
 | ⏰ Project Timeline : 📈 |
