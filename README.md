@@ -1,4 +1,4 @@
-![C_stand](https://github.com/user-attachments/assets/40eb514f-bfb9-4045-9e5f-fbbce2855b7d)![c_sit](https://github.com/user-attachments/assets/a0586095-ec97-43fb-8581-79b5ff7eb453)![c_run](https://github.com/user-attachments/assets/f5e0094a-be2c-4c6c-ad74-b2851ea97232)![c_clap](https://github.com/user-attachments/assets/d2da1bc0-9382-4ee2-9627-e16e10b943f7)![c_exercise](https://github.com/user-attachments/assets/1f1e6888-1aa1-4dba-a68d-322ac222926e)
+
 # <p align="center"> Human Pose Recognition and Activity Classification  </p>
 
 The project / application captures subject video using a webcam and uses an **LSTM model** to classify the **actions** performed by the subject in 1-3 sec intervals in _almost_ **real time**.
