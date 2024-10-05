@@ -49,15 +49,7 @@ ___
 | ![Blazepose_1](https://github.com/user-attachments/assets/2911a93b-0e1b-4d53-8468-34717bf5fc5b) | ![Blazepose_2](https://github.com/user-attachments/assets/7298b358-aabe-4ff3-9227-5bc319f7318b) |
 
  ## Project :
-![C_stand](https://github.com/user-attachments/assets/9bc74b60-4160-47de-b5c3-b3274c74f4dd)
-
-![c_sit](https://github.com/user-attachments/assets/b9ca0961-9927-4c8c-b53b-65b256939afa)
-
-![c_run](https://github.com/user-attachments/assets/a10fc7db-659a-47e8-87a0-b280998cbe10)
-
-![c_clap](https://github.com/user-attachments/assets/73d63f4b-212b-45d9-b0d6-5044c85bc0d0)
-
-![c_exercise](https://github.com/user-attachments/assets/3ac83415-a28f-48d7-a066-da7d6f2769ce)
+| ![C_stand](https://github.com/user-attachments/assets/9bc74b60-4160-47de-b5c3-b3274c74f4dd) | ![c_sit](https://github.com/user-attachments/assets/b9ca0961-9927-4c8c-b53b-65b256939afa) | ![c_run](https://github.com/user-attachments/assets/a10fc7db-659a-47e8-87a0-b280998cbe10) | ![c_clap](https://github.com/user-attachments/assets/73d63f4b-212b-45d9-b0d6-5044c85bc0d0) | ![c_exercise](https://github.com/user-attachments/assets/3ac83415-a28f-48d7-a066-da7d6f2769ce) |
 
 
 
