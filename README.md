@@ -1,4 +1,4 @@
-
+![C_stand](https://github.com/user-attachments/assets/40eb514f-bfb9-4045-9e5f-fbbce2855b7d)![c_sit](https://github.com/user-attachments/assets/a0586095-ec97-43fb-8581-79b5ff7eb453)![c_run](https://github.com/user-attachments/assets/f5e0094a-be2c-4c6c-ad74-b2851ea97232)![c_clap](https://github.com/user-attachments/assets/d2da1bc0-9382-4ee2-9627-e16e10b943f7)![c_exercise](https://github.com/user-attachments/assets/1f1e6888-1aa1-4dba-a68d-322ac222926e)
 # <p align="center"> Human Pose Recognition and Activity Classification  </p>
 
 The project / application captures subject video using a webcam and uses an **LSTM model** to classify the **actions** performed by the subject in 1-3 sec intervals in _almost_ **real time**.
@@ -37,9 +37,28 @@ ___
 | 5 Used Cuda on local GPU with TensorFlow to Train the model   |
 | 6 Worked on the code |
 | 7 Final report written |
-        
-        
-        
+
+ ##### Blazepose demo:
+![Blazepose_1](https://github.com/user-attachments/assets/2911a93b-0e1b-4d53-8468-34717bf5fc5b)
+
+![Blazepose_2](https://github.com/user-attachments/assets/7298b358-aabe-4ff3-9227-5bc319f7318b)
+
+ ##### Project :
+![C_stand](https://github.com/user-attachments/assets/9bc74b60-4160-47de-b5c3-b3274c74f4dd)
+
+![c_sit](https://github.com/user-attachments/assets/b9ca0961-9927-4c8c-b53b-65b256939afa)
+
+![c_run](https://github.com/user-attachments/assets/a10fc7db-659a-47e8-87a0-b280998cbe10)
+
+![c_clap](https://github.com/user-attachments/assets/73d63f4b-212b-45d9-b0d6-5044c85bc0d0)
+
+![c_exercise](https://github.com/user-attachments/assets/3ac83415-a28f-48d7-a066-da7d6f2769ce)
+
+
+
+
+
+
 
     
 
