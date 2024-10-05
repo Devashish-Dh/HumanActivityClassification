@@ -16,7 +16,7 @@ It was a fun project that taught me many things, like:
 ___
 
 ## 🛠️ Technologies used:
-<a href="https://www.python.org/"><img src="/images_as_icons/python.png" alt="Python" style="width:40px;"></a>
+<a href="https://www.python.org/"><img src="/images_as_icons/python.png" alt="Python" style="width:100px;"></a>
 
 | ⏰ Project Timeline : 📈 |
 | -------- |
