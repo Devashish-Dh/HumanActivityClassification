@@ -19,10 +19,10 @@ ___
 - <a href="https://www.python.org/"><img src="/images_as_icons/python.png" alt="Python" style="width:100px;"></a>
 - <a href="https://matplotlib.org/"><img src="/images_as_icons/matplotlib.jpeg" alt="MatplotLib" style="width:100px;"></a>
 - <a href="https://scikit-learn.org/stable/"><img src="/images_as_icons/scikitlearn.jpeg" alt="Scikit-Learn" style="width:100px;"></a>
-- <a href="https://opencv.org/"><img src="/images_as_icons/opencv.png" alt="OpenCV" style="width:50px;"></a>
-- <a href="https://www.tensorflow.org/"><img src="/images_as_icons/tensorflow.png.png" alt="Tensorflow" style="width:100px;"></a>
+- <a href="https://opencv.org/"><img src="/images_as_icons/opencv.png" alt="OpenCV" style="width:80px;"></a>
+- <a href="https://www.tensorflow.org/"><img src="/images_as_icons/tensorflow.png.png" alt="Tensorflow" style="width:150px;"></a>
 - <a href="https://keras.io/"><img src="/images_as_icons/keras.png" alt="Keras" style="width:100px;"></a>
-- <a href="https://jupyter.org/"><img src="/images_as_icons/jupyter.png" alt="Jupyter" style="width:100px;"></a>
+- <a href="https://jupyter.org/"><img src="/images_as_icons/jupyter.jpeg" alt="Jupyter" style="width:100px;"></a>
 
 
 | ⏰ Project Timeline : 📈 |
