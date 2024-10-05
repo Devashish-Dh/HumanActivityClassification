@@ -38,6 +38,10 @@ ___
 | 6 Worked on the code |
 | 7 Final report written |
 
+** Report:
+[Dev_report](Report__Human_pose_and_Action_Recognition_using_neural_nets (1).pdf)
+
+
  ## Blazepose demo:
 ![Blazepose_1](https://github.com/user-attachments/assets/2911a93b-0e1b-4d53-8468-34717bf5fc5b)
 
