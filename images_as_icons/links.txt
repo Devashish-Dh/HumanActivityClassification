@@ -1,0 +1,13 @@
+https://jupyter.org/
+
+https://matplotlib.org/
+
+https://scikit-learn.org/stable/
+
+https://www.python.org/
+
+https://opencv.org/
+
+https://keras.io/
+
+https://www.tensorflow.org/
