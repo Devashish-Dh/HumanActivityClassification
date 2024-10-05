@@ -39,7 +39,7 @@ ___
 | 7 Final report written |
 
 ** Report:
-[Dev_report](./Report__Human_pose_and_Action_Recognition_using_neural_nets (1).pdf)
+[Dev_report](https://github.com/Devashish-Dh/HumanActivityClassification/blob/main/Report__Human_pose_and_Action_Recognition_using_neural_nets%20(1).pdf)
 
 
  ## Blazepose demo:
