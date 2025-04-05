@@ -1,5 +1,5 @@
 
-# <p align="center"> Human Pose Recognition and Activity Classification  </p>
+# <p align="center"> Human Pose Recognition and Actions Classification  </p>
 
 The project / application captures subject video using a webcam and uses an **LSTM model** to classify the **actions** performed by the subject in 1-3 sec intervals in _almost_ **real time**.
 ___
